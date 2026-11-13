@@ -171,6 +171,18 @@ const QUICK_LINKS = [
     badgeType: "emerald",
     featured: true,
     target: "_blank"
+  },
+
+  {
+    id: "monitoring-rumah-ibadah-bonbol",
+    title: "Rumah Ibadah",
+    url: "https://monitoring-rumah-ibadah-bone-bolango.ruang-survei-bone-bolango.workers.dev/#akun",
+    icon: "archive",
+    category: "Monitoring & Pelayanan",
+    badge: "Monitoring Wakaf",
+    badgeType: "emerald",
+    featured: true,
+    target: "_blank"
   }
 ];
 
