@@ -103,7 +103,7 @@ const QUICK_LINKS = [
 
   {
     id: "sitrack-bonbol",
-    title: "SiTrack",
+    title: "SITPRA",
     url: "https://sitrack.aliapps.my.id/",
     icon: "file-text",
     category: "Monitoring & Pelayanan",

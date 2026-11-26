@@ -74,7 +74,7 @@ Portal menggunakan verifikasi kata sandi akses terpusat (*password-only*):
 2. **Monitoring Berkas Bone Bolango** (`https://berkasbonebol.netlify.app/login?next=/monitor`)
 3. **Akses Tanah Bonbol** (`https://tanahbonbol.netlify.app/akses`)
 4. **Berkas Wakaf Bone Bolango** (`https://berkas-wakaf-bone-bolango.ruang-survei-bone-bolango.workers.dev/login`)
-5. **SiTrack - Tracking Berkas** (`https://sitrack.aliapps.my.id/`)
+5. **SITPRA - Tracking Berkas** (`https://sitrack.aliapps.my.id/`)
 6. **Layanan Permintaan Warkah** (`https://warkah-app.vercel.app/minta`)
 7. **SIPANTAS Bone Bolango** (`https://sipantas.sibolang.net/pengaturan`)
 8. **PHPT - Penetapan Hak & Pendaftaran** (`https://phpt.sibolang.net/login`)
